@@ -1,3 +1,2 @@
 # hello-world
-cool
-sup
+awesome
